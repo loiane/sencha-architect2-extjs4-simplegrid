@@ -1,0 +1,25 @@
+{
+    "id": "ExtBox1-ext-gen10904",
+    "type": "controller",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "models": [
+            "Company"
+        ],
+        "stores": [
+            "Companies"
+        ],
+        "views": [
+            "MyGridPanel"
+        ],
+        "designer|userClassName": "Company"
+    },
+    "customConfigs": [],
+    "designerId": "f68b70d2-8d4b-4038-bc91-5b2f6152fc4d",
+    "$viewOrder": 0,
+    "expanded": true
+}
